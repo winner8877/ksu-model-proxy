@@ -1,0 +1,6 @@
+id=github-cf-proxy
+name=GitHub Proxy Redirector
+version=1.0
+versionCode=1
+author=GitHub+CF
+description=通过 CF Worker (qazqqaazz.dpdns.org) 代理所有 GitHub 模块更新\nGithub链接 https://github.com/winner8877/ksu-model-update-proxy/
